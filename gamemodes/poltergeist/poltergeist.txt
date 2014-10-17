@@ -1,0 +1,12 @@
+"poltergeist"
+{
+	"base"		"fretta13"
+	"title"		"Poltergeist"
+	"maps"		"^pg_"
+	"menusystem"	"1"
+
+	"settings"
+	{
+		// TODO: put some settings here
+	}
+}
